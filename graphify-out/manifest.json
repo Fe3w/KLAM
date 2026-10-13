@@ -1,0 +1,1064 @@
+{
+  "FeatUp/featup/__init__.py": {
+    "mtime": 1787803690.4861515,
+    "seen": 1789464593.9212227,
+    "ast_hash": "acede027e548b7b8744467bc71e5ad39",
+    "semantic_hash": "acede027e548b7b8744467bc71e5ad39"
+  },
+  "FeatUp/featup/adaptive_conv_cuda/__init__.py": {
+    "mtime": 1787803690.486975,
+    "seen": 1789464593.9212275,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "FeatUp/featup/adaptive_conv_cuda/adaptive_conv.cpp": {
+    "mtime": 1787803690.4870028,
+    "seen": 1789464593.9212296,
+    "ast_hash": "cd6e4a185bdf54f850747559bc86e1fd",
+    "semantic_hash": "cd6e4a185bdf54f850747559bc86e1fd"
+  },
+  "FeatUp/featup/adaptive_conv_cuda/adaptive_conv.py": {
+    "mtime": 1787803690.4870028,
+    "seen": 1789464593.9212308,
+    "ast_hash": "39e8b9c0580d119af61ac07eb9fdb5e2",
+    "semantic_hash": "39e8b9c0580d119af61ac07eb9fdb5e2"
+  },
+  "FeatUp/featup/adaptive_conv_cuda/adaptive_conv_cuda.cpp": {
+    "mtime": 1787803690.4870028,
+    "seen": 1789464593.9212322,
+    "ast_hash": "bd2881b961183bad7433b39dde90ed21",
+    "semantic_hash": "bd2881b961183bad7433b39dde90ed21"
+  },
+  "FeatUp/featup/adaptive_conv_cuda/adaptive_conv_kernel.cu": {
+    "mtime": 1787803690.4870028,
+    "seen": 1789464593.9212332,
+    "ast_hash": "eb76474cf5847dbca74cd53c608f307d",
+    "semantic_hash": "eb76474cf5847dbca74cd53c608f307d"
+  },
+  "FeatUp/featup/datasets/COCO.py": {
+    "mtime": 1787803690.4872952,
+    "seen": 1789464593.9212344,
+    "ast_hash": "7f37f3f498a320b588af8df1afa0c547",
+    "semantic_hash": "7f37f3f498a320b588af8df1afa0c547"
+  },
+  "FeatUp/featup/datasets/DAVIS.py": {
+    "mtime": 1787803690.4874523,
+    "seen": 1789464593.921235,
+    "ast_hash": "578af2820a57151c16aa432e52fe23d1",
+    "semantic_hash": "578af2820a57151c16aa432e52fe23d1"
+  },
+  "FeatUp/featup/datasets/EmbeddingFile.py": {
+    "mtime": 1787803690.4874523,
+    "seen": 1789464593.9212358,
+    "ast_hash": "aa860de4570bd5d298f3346e1827decb",
+    "semantic_hash": "aa860de4570bd5d298f3346e1827decb"
+  },
+  "FeatUp/featup/datasets/HighResEmbs.py": {
+    "mtime": 1787803690.4874523,
+    "seen": 1789464593.9212365,
+    "ast_hash": "7b4cb8cd00dbb0ff68a224f7589004b3",
+    "semantic_hash": "7b4cb8cd00dbb0ff68a224f7589004b3"
+  },
+  "FeatUp/featup/datasets/ImageNetSubset.py": {
+    "mtime": 1787803690.4874523,
+    "seen": 1789464593.9212372,
+    "ast_hash": "240a5c2bc1efd5f1a76d330bbfad0577",
+    "semantic_hash": "240a5c2bc1efd5f1a76d330bbfad0577"
+  },
+  "FeatUp/featup/datasets/JitteredImage.py": {
+    "mtime": 1787803690.4874523,
+    "seen": 1789464593.9212382,
+    "ast_hash": "7473254af32db25d96cf0520c38b3c3b",
+    "semantic_hash": "7473254af32db25d96cf0520c38b3c3b"
+  },
+  "FeatUp/featup/datasets/SampleImage.py": {
+    "mtime": 1787803690.4874523,
+    "seen": 1789464593.9212391,
+    "ast_hash": "5a0830c63ecee0aa2b5f04b752ab68b4",
+    "semantic_hash": "5a0830c63ecee0aa2b5f04b752ab68b4"
+  },
+  "FeatUp/featup/datasets/__init__.py": {
+    "mtime": 1787803690.4874523,
+    "seen": 1789464593.9212399,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "FeatUp/featup/datasets/util.py": {
+    "mtime": 1787803690.4874523,
+    "seen": 1789464593.9212406,
+    "ast_hash": "c33764323e1c54d84c4d71553ae78aa6",
+    "semantic_hash": "c33764323e1c54d84c4d71553ae78aa6"
+  },
+  "FeatUp/featup/downsamplers.py": {
+    "mtime": 1787803690.4874523,
+    "seen": 1789464593.9212413,
+    "ast_hash": "67414c4a5f59f7b1e8502aeef69eef6b",
+    "semantic_hash": "67414c4a5f59f7b1e8502aeef69eef6b"
+  },
+  "FeatUp/featup/featurizers/CLIP.py": {
+    "mtime": 1787803690.4874523,
+    "seen": 1789464593.921242,
+    "ast_hash": "7c9f0d76e9e86bd7c135bc3e2bdcc8f2",
+    "semantic_hash": "7c9f0d76e9e86bd7c135bc3e2bdcc8f2"
+  },
+  "FeatUp/featup/featurizers/DINO.py": {
+    "mtime": 1787803690.4881926,
+    "seen": 1789464593.921243,
+    "ast_hash": "6fa3375d3ae9aa0cc7329a57ad39f413",
+    "semantic_hash": "6fa3375d3ae9aa0cc7329a57ad39f413"
+  },
+  "FeatUp/featup/featurizers/DINOv2.py": {
+    "mtime": 1787803690.4881926,
+    "seen": 1789464593.9212437,
+    "ast_hash": "1ab315f9c5476e59685d9b2e66403012",
+    "semantic_hash": "1ab315f9c5476e59685d9b2e66403012"
+  },
+  "FeatUp/featup/featurizers/DeepLabV3.py": {
+    "mtime": 1787803690.4881926,
+    "seen": 1789464593.9212444,
+    "ast_hash": "93d6b7bd5d09e44c53d60cf989733dd3",
+    "semantic_hash": "93d6b7bd5d09e44c53d60cf989733dd3"
+  },
+  "FeatUp/featup/featurizers/MAE.py": {
+    "mtime": 1787803690.4881926,
+    "seen": 1789464593.921245,
+    "ast_hash": "c10b15ce75507e7b9166a93269932116",
+    "semantic_hash": "c10b15ce75507e7b9166a93269932116"
+  },
+  "FeatUp/featup/featurizers/MIDAS.py": {
+    "mtime": 1787803690.4881926,
+    "seen": 1789464593.921246,
+    "ast_hash": "f86757758b762ed236fffd939a2215ce",
+    "semantic_hash": "f86757758b762ed236fffd939a2215ce"
+  },
+  "FeatUp/featup/featurizers/MaskCLIP.py": {
+    "mtime": 1787803690.4881926,
+    "seen": 1789464593.9212472,
+    "ast_hash": "539862095cf43765825fe00344c412a2",
+    "semantic_hash": "539862095cf43765825fe00344c412a2"
+  },
+  "FeatUp/featup/featurizers/ResNet.py": {
+    "mtime": 1787803690.4881926,
+    "seen": 1789464593.921248,
+    "ast_hash": "7522050bdc148e9c79ae5e3cfb8363f3",
+    "semantic_hash": "7522050bdc148e9c79ae5e3cfb8363f3"
+  },
+  "FeatUp/featup/featurizers/__init__.py": {
+    "mtime": 1787803690.4881926,
+    "seen": 1789464593.9212487,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "FeatUp/featup/featurizers/dinov2/__init__.py": {
+    "mtime": 1787803690.4881926,
+    "seen": 1789464593.9212496,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "FeatUp/featup/featurizers/dinov2/layers/__init__.py": {
+    "mtime": 1787803690.4888394,
+    "seen": 1789464593.9212503,
+    "ast_hash": "16de866d491f98e28ee1c139ec204419",
+    "semantic_hash": "16de866d491f98e28ee1c139ec204419"
+  },
+  "FeatUp/featup/featurizers/dinov2/layers/attention.py": {
+    "mtime": 1787803690.488877,
+    "seen": 1789464593.9212513,
+    "ast_hash": "302c8c21fb0fa4f8630e14b4a52bd448",
+    "semantic_hash": "302c8c21fb0fa4f8630e14b4a52bd448"
+  },
+  "FeatUp/featup/featurizers/dinov2/layers/block.py": {
+    "mtime": 1787803690.488877,
+    "seen": 1789464593.921252,
+    "ast_hash": "0c49b0de8d55f95b592bfcdedda28aad",
+    "semantic_hash": "0c49b0de8d55f95b592bfcdedda28aad"
+  },
+  "FeatUp/featup/featurizers/dinov2/layers/dino_head.py": {
+    "mtime": 1787803690.488877,
+    "seen": 1789464593.921253,
+    "ast_hash": "8372d83a002c6f36d16bac768e925c9a",
+    "semantic_hash": "8372d83a002c6f36d16bac768e925c9a"
+  },
+  "FeatUp/featup/featurizers/dinov2/layers/drop_path.py": {
+    "mtime": 1787803690.488877,
+    "seen": 1789464593.9212537,
+    "ast_hash": "9fb8817c576bcf2c18ce4f609ccb7370",
+    "semantic_hash": "9fb8817c576bcf2c18ce4f609ccb7370"
+  },
+  "FeatUp/featup/featurizers/dinov2/layers/layer_scale.py": {
+    "mtime": 1787803690.488877,
+    "seen": 1789464593.9212544,
+    "ast_hash": "fe48bdaa4329917ff416efe312d2f34f",
+    "semantic_hash": "fe48bdaa4329917ff416efe312d2f34f"
+  },
+  "FeatUp/featup/featurizers/dinov2/layers/mlp.py": {
+    "mtime": 1787803690.488877,
+    "seen": 1789464593.9212554,
+    "ast_hash": "4188ac3bd4268a466fafa45f540bcc48",
+    "semantic_hash": "4188ac3bd4268a466fafa45f540bcc48"
+  },
+  "FeatUp/featup/featurizers/dinov2/layers/patch_embed.py": {
+    "mtime": 1787803690.488877,
+    "seen": 1789464593.9212563,
+    "ast_hash": "fe0f061a0b208cb7ad5d441e242f4c52",
+    "semantic_hash": "fe0f061a0b208cb7ad5d441e242f4c52"
+  },
+  "FeatUp/featup/featurizers/dinov2/layers/swiglu_ffn.py": {
+    "mtime": 1787803690.488877,
+    "seen": 1789464593.921257,
+    "ast_hash": "6d832ed5b40f6b894bb31445a707a952",
+    "semantic_hash": "6d832ed5b40f6b894bb31445a707a952"
+  },
+  "FeatUp/featup/featurizers/maskclip/__init__.py": {
+    "mtime": 1787803690.489249,
+    "seen": 1789464593.9212577,
+    "ast_hash": "6df892cd596b09963f484db9b2bd98a8",
+    "semantic_hash": "6df892cd596b09963f484db9b2bd98a8"
+  },
+  "FeatUp/featup/featurizers/maskclip/clip.py": {
+    "mtime": 1787803690.4901512,
+    "seen": 1789464593.9212584,
+    "ast_hash": "dd99c2ca75477001bea003633160bd22",
+    "semantic_hash": "dd99c2ca75477001bea003633160bd22"
+  },
+  "FeatUp/featup/featurizers/maskclip/interpolate.py": {
+    "mtime": 1787803690.4911513,
+    "seen": 1789464593.9212592,
+    "ast_hash": "9e4134a1d30febbe63915d2a812eab26",
+    "semantic_hash": "9e4134a1d30febbe63915d2a812eab26"
+  },
+  "FeatUp/featup/featurizers/maskclip/model.py": {
+    "mtime": 1787803690.4911513,
+    "seen": 1789464593.92126,
+    "ast_hash": "fc052f8c3122d25dda0deb7d395e658f",
+    "semantic_hash": "fc052f8c3122d25dda0deb7d395e658f"
+  },
+  "FeatUp/featup/featurizers/maskclip/simple_tokenizer.py": {
+    "mtime": 1787803690.4911513,
+    "seen": 1789464593.9212608,
+    "ast_hash": "5c07653a73f4bcc9857ef9686349f9c3",
+    "semantic_hash": "5c07653a73f4bcc9857ef9686349f9c3"
+  },
+  "FeatUp/featup/featurizers/modules/__init__.py": {
+    "mtime": 1787803690.4911513,
+    "seen": 1789464593.9212615,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "FeatUp/featup/featurizers/modules/layers.py": {
+    "mtime": 1787803690.4917674,
+    "seen": 1789464593.9212625,
+    "ast_hash": "d30a26f16bfdefd4871c865006350b52",
+    "semantic_hash": "d30a26f16bfdefd4871c865006350b52"
+  },
+  "FeatUp/featup/featurizers/modules/resnet.py": {
+    "mtime": 1787803690.4917674,
+    "seen": 1789464593.9212635,
+    "ast_hash": "a1355081fe15f5252f3b08f72cae1416",
+    "semantic_hash": "a1355081fe15f5252f3b08f72cae1416"
+  },
+  "FeatUp/featup/featurizers/modules/vgg.py": {
+    "mtime": 1787803690.4917674,
+    "seen": 1789464593.9212654,
+    "ast_hash": "dd48458d4e4c39f2681b90b9d38a2ac1",
+    "semantic_hash": "dd48458d4e4c39f2681b90b9d38a2ac1"
+  },
+  "FeatUp/featup/featurizers/util.py": {
+    "mtime": 1787803690.4917674,
+    "seen": 1789464593.921266,
+    "ast_hash": "d11097e7ecc556ed9043d7521f95cbe1",
+    "semantic_hash": "d11097e7ecc556ed9043d7521f95cbe1"
+  },
+  "FeatUp/featup/layers.py": {
+    "mtime": 1787803690.4917674,
+    "seen": 1789464593.921267,
+    "ast_hash": "75b709b33656569f32c7be67c425cb0f",
+    "semantic_hash": "75b709b33656569f32c7be67c425cb0f"
+  },
+  "FeatUp/featup/losses.py": {
+    "mtime": 1787803690.4917674,
+    "seen": 1789464593.9212677,
+    "ast_hash": "bae0485a65b217b1de30ebf64c3f1a47",
+    "semantic_hash": "bae0485a65b217b1de30ebf64c3f1a47"
+  },
+  "FeatUp/featup/plotting.py": {
+    "mtime": 1787803690.4917674,
+    "seen": 1789464593.9212685,
+    "ast_hash": "2b2e33ca008a8672b486b07c1b3cf9d4",
+    "semantic_hash": "2b2e33ca008a8672b486b07c1b3cf9d4"
+  },
+  "FeatUp/featup/train_implicit_upsampler.py": {
+    "mtime": 1787803690.4917674,
+    "seen": 1789464593.9212692,
+    "ast_hash": "06e713f7a869bd9001164ef57e5361e8",
+    "semantic_hash": "06e713f7a869bd9001164ef57e5361e8"
+  },
+  "FeatUp/featup/train_jbu_upsampler.py": {
+    "mtime": 1787803690.4917674,
+    "seen": 1789464593.9212697,
+    "ast_hash": "88fbed1e5a7d27ed14d9da3e2f40399f",
+    "semantic_hash": "88fbed1e5a7d27ed14d9da3e2f40399f"
+  },
+  "FeatUp/featup/train_probes.py": {
+    "mtime": 1787803690.4921513,
+    "seen": 1789464593.9212706,
+    "ast_hash": "388c46445727270138c80bf37d7cbfcb",
+    "semantic_hash": "388c46445727270138c80bf37d7cbfcb"
+  },
+  "FeatUp/featup/upsamplers.py": {
+    "mtime": 1787803690.4921513,
+    "seen": 1789464593.9212713,
+    "ast_hash": "d1703d0da7f53571ddf95608976f6a6f",
+    "semantic_hash": "d1703d0da7f53571ddf95608976f6a6f"
+  },
+  "FeatUp/featup/util.py": {
+    "mtime": 1787803690.4921513,
+    "seen": 1789464593.921272,
+    "ast_hash": "d453fb3edc08cd98eea4d8ac1e9b3932",
+    "semantic_hash": "d453fb3edc08cd98eea4d8ac1e9b3932"
+  },
+  "FeatUp/gradio_app.py": {
+    "mtime": 1787803690.4921513,
+    "seen": 1789464593.9212728,
+    "ast_hash": "985a0b4cf8839faba00f6920ac1520af",
+    "semantic_hash": "985a0b4cf8839faba00f6920ac1520af"
+  },
+  "FeatUp/hubconf.py": {
+    "mtime": 1787803690.4921513,
+    "seen": 1789464593.921274,
+    "ast_hash": "90bd20185a7c47ae85b390cfe4e23c25",
+    "semantic_hash": "90bd20185a7c47ae85b390cfe4e23c25"
+  },
+  "FeatUp/setup.py": {
+    "mtime": 1787803690.589147,
+    "seen": 1789464593.9212747,
+    "ast_hash": "3c4008f9bda7f48ef88b3cecec68e391",
+    "semantic_hash": "3c4008f9bda7f48ef88b3cecec68e391"
+  },
+  "FeatUp/simple_test.py": {
+    "mtime": 1787803690.589147,
+    "seen": 1789464593.9212754,
+    "ast_hash": "62d517ed81c1367fef21a8c122892445",
+    "semantic_hash": "62d517ed81c1367fef21a8c122892445"
+  },
+  "kalm/__init__.py": {
+    "mtime": 1787797922.2934718,
+    "seen": 1789464593.9212763,
+    "ast_hash": "16488588e502a514556df71559b18577",
+    "semantic_hash": "16488588e502a514556df71559b18577"
+  },
+  "kalm/bin/Activate.ps1": {
+    "mtime": 1787798002.8971872,
+    "seen": 1789464593.9212773,
+    "ast_hash": "ffb074b8336789578f50a6c1a1632342",
+    "semantic_hash": "ffb074b8336789578f50a6c1a1632342"
+  },
+  "kalm/bin/accelerate": {
+    "mtime": 1787799052.8294308,
+    "seen": 1789464593.921278,
+    "ast_hash": "6833375efee112c074744149cccdb3cb",
+    "semantic_hash": "6833375efee112c074744149cccdb3cb"
+  },
+  "kalm/bin/accelerate-config": {
+    "mtime": 1787799052.8294976,
+    "seen": 1789464593.9212787,
+    "ast_hash": "c44fc96b6a7eba73f674fbd099c4f8b7",
+    "semantic_hash": "c44fc96b6a7eba73f674fbd099c4f8b7"
+  },
+  "kalm/bin/accelerate-estimate-memory": {
+    "mtime": 1787799052.8295496,
+    "seen": 1789464593.9212794,
+    "ast_hash": "2ecac3a4508a64f2b3786f4fae53739f",
+    "semantic_hash": "2ecac3a4508a64f2b3786f4fae53739f"
+  },
+  "kalm/bin/accelerate-launch": {
+    "mtime": 1787799052.829601,
+    "seen": 1789464593.9212801,
+    "ast_hash": "39f293cec88668a4f4beeea05d78b0c2",
+    "semantic_hash": "39f293cec88668a4f4beeea05d78b0c2"
+  },
+  "kalm/bin/accelerate-merge-weights": {
+    "mtime": 1787799052.8296463,
+    "seen": 1789464593.9212813,
+    "ast_hash": "f5ae01663be11fbc9a81010c2c7ec092",
+    "semantic_hash": "f5ae01663be11fbc9a81010c2c7ec092"
+  },
+  "kalm/bin/cffi-gen-src": {
+    "mtime": 1787802810.337398,
+    "seen": 1789464593.9212823,
+    "ast_hash": "b870a620e0af04af38a5bd791197ce8d",
+    "semantic_hash": "b870a620e0af04af38a5bd791197ce8d"
+  },
+  "kalm/bin/convert-caffe2-to-onnx": {
+    "mtime": 1787799301.742536,
+    "seen": 1789464593.921283,
+    "ast_hash": "9984cc91e82e3da11a78a0c911b67862",
+    "semantic_hash": "9984cc91e82e3da11a78a0c911b67862"
+  },
+  "kalm/bin/convert-onnx-to-caffe2": {
+    "mtime": 1787799301.7426224,
+    "seen": 1789464593.9212837,
+    "ast_hash": "15c25129a0945d3bd7063c3aac12b597",
+    "semantic_hash": "15c25129a0945d3bd7063c3aac12b597"
+  },
+  "kalm/bin/dash-generate-components": {
+    "mtime": 1787799034.635375,
+    "seen": 1789464593.9212847,
+    "ast_hash": "6982539c55b2453f5cd1ed3bfa016dc6",
+    "semantic_hash": "6982539c55b2453f5cd1ed3bfa016dc6"
+  },
+  "kalm/bin/dash-update-components": {
+    "mtime": 1787799034.6354322,
+    "seen": 1789464593.9212856,
+    "ast_hash": "2b9a16e2c418547daad90aee363dedc3",
+    "semantic_hash": "2b9a16e2c418547daad90aee363dedc3"
+  },
+  "kalm/bin/diffusers-cli": {
+    "mtime": 1787799046.9619942,
+    "seen": 1789464593.9212863,
+    "ast_hash": "90c0266a45c2bb41da3b9bf332aa2369",
+    "semantic_hash": "90c0266a45c2bb41da3b9bf332aa2369"
+  },
+  "kalm/bin/distro": {
+    "mtime": 1787802810.039264,
+    "seen": 1789464593.921287,
+    "ast_hash": "cd5ed64615de33008538e8d3d9a9066c",
+    "semantic_hash": "cd5ed64615de33008538e8d3d9a9066c"
+  },
+  "kalm/bin/f2py": {
+    "mtime": 1787799013.245465,
+    "seen": 1789464593.921288,
+    "ast_hash": "8eb5de75d3a7f01af2c5a2f0615e34da",
+    "semantic_hash": "8eb5de75d3a7f01af2c5a2f0615e34da"
+  },
+  "kalm/bin/flask": {
+    "mtime": 1787799033.091353,
+    "seen": 1789464593.921289,
+    "ast_hash": "8cf44fcfa82e26f64203b01578f7b821",
+    "semantic_hash": "8cf44fcfa82e26f64203b01578f7b821"
+  },
+  "kalm/bin/fonttools": {
+    "mtime": 1787799015.4040053,
+    "seen": 1789464593.9212897,
+    "ast_hash": "3f2438f5aefb3e531d3296e365740b27",
+    "semantic_hash": "3f2438f5aefb3e531d3296e365740b27"
+  },
+  "kalm/bin/hf": {
+    "mtime": 1787799034.304133,
+    "seen": 1789464593.9212904,
+    "ast_hash": "c4f43da5631c7a6f5cc4dc4cdeef6e1c",
+    "semantic_hash": "c4f43da5631c7a6f5cc4dc4cdeef6e1c"
+  },
+  "kalm/bin/httpx": {
+    "mtime": 1787799033.0562642,
+    "seen": 1789464593.9212914,
+    "ast_hash": "222a4efc9a5a049b772704f8e8ca9286",
+    "semantic_hash": "222a4efc9a5a049b772704f8e8ca9286"
+  },
+  "kalm/bin/httpx2": {
+    "mtime": 1787799033.015547,
+    "seen": 1789464593.921292,
+    "ast_hash": "50663208a25da0040765ef533665ea1c",
+    "semantic_hash": "50663208a25da0040765ef533665ea1c"
+  },
+  "kalm/bin/huggingface-cli": {
+    "mtime": 1787799034.3041933,
+    "seen": 1789464593.921293,
+    "ast_hash": "246af7af56fb5984d41942c70d8e0d04",
+    "semantic_hash": "246af7af56fb5984d41942c70d8e0d04"
+  },
+  "kalm/bin/idna": {
+    "mtime": 1787799014.6371675,
+    "seen": 1789464593.921294,
+    "ast_hash": "ba9b30fce167b9fc63e75f1116cb6811",
+    "semantic_hash": "ba9b30fce167b9fc63e75f1116cb6811"
+  },
+  "kalm/bin/ipython": {
+    "mtime": 1787799032.9494138,
+    "seen": 1789464593.9212952,
+    "ast_hash": "3130087a92a7ede6e1651084b1da4c28",
+    "semantic_hash": "3130087a92a7ede6e1651084b1da4c28"
+  },
+  "kalm/bin/ipython3": {
+    "mtime": 1787799032.9494674,
+    "seen": 1789464593.921296,
+    "ast_hash": "3130087a92a7ede6e1651084b1da4c28",
+    "semantic_hash": "3130087a92a7ede6e1651084b1da4c28"
+  },
+  "kalm/bin/isympy": {
+    "mtime": 1787799272.461728,
+    "seen": 1789464593.9212966,
+    "ast_hash": "03d8cb9a1318ff74f585a0b21042d666",
+    "semantic_hash": "03d8cb9a1318ff74f585a0b21042d666"
+  },
+  "kalm/bin/jsonschema": {
+    "mtime": 1787799033.9557881,
+    "seen": 1789464593.9212973,
+    "ast_hash": "91336fbc87af017b122c6c91c46c9a36",
+    "semantic_hash": "91336fbc87af017b122c6c91c46c9a36"
+  },
+  "kalm/bin/jupyter": {
+    "mtime": 1787799024.1373532,
+    "seen": 1789464593.9212985,
+    "ast_hash": "7df4efd8e1c52c1fff9531802491ceca",
+    "semantic_hash": "7df4efd8e1c52c1fff9531802491ceca"
+  },
+  "kalm/bin/jupyter-migrate": {
+    "mtime": 1787799024.137405,
+    "seen": 1789464593.9212992,
+    "ast_hash": "cff90a99aadab6682b3cce13716bee74",
+    "semantic_hash": "cff90a99aadab6682b3cce13716bee74"
+  },
+  "kalm/bin/jupyter-troubleshoot": {
+    "mtime": 1787799024.1374452,
+    "seen": 1789464593.9213002,
+    "ast_hash": "6249860d821873f1999f5f7982cfbea8",
+    "semantic_hash": "6249860d821873f1999f5f7982cfbea8"
+  },
+  "kalm/bin/jupyter-trust": {
+    "mtime": 1787799044.1780112,
+    "seen": 1789464593.921302,
+    "ast_hash": "c25b1c8da4ce28f7bf131b55db6ecf22",
+    "semantic_hash": "c25b1c8da4ce28f7bf131b55db6ecf22"
+  },
+  "kalm/bin/markdown_py": {
+    "mtime": 1787799014.3735366,
+    "seen": 1789464593.9213028,
+    "ast_hash": "fbed3b5b831037e5fd010d8d65a6b051",
+    "semantic_hash": "fbed3b5b831037e5fd010d8d65a6b051"
+  },
+  "kalm/bin/normalizer": {
+    "mtime": 1787799015.657987,
+    "seen": 1789464593.9213035,
+    "ast_hash": "5489444c5c02e7d142523973f878d194",
+    "semantic_hash": "5489444c5c02e7d142523973f878d194"
+  },
+  "kalm/bin/open3d": {
+    "mtime": 1787799052.6381254,
+    "seen": 1789464593.9213045,
+    "ast_hash": "7a5288d224ee9c62d06e9b85d33c9d52",
+    "semantic_hash": "7a5288d224ee9c62d06e9b85d33c9d52"
+  },
+  "kalm/bin/pip": {
+    "mtime": 1787798003.8571324,
+    "seen": 1789464593.9213054,
+    "ast_hash": "e5b55959bb8269de685a8c5c556896a1",
+    "semantic_hash": "e5b55959bb8269de685a8c5c556896a1"
+  },
+  "kalm/bin/pip3": {
+    "mtime": 1787798003.8571982,
+    "seen": 1789464593.9213061,
+    "ast_hash": "e5b55959bb8269de685a8c5c556896a1",
+    "semantic_hash": "e5b55959bb8269de685a8c5c556896a1"
+  },
+  "kalm/bin/plotly": {
+    "mtime": 1787799034.6354773,
+    "seen": 1789464593.9213068,
+    "ast_hash": "00f83d226d3a97a7b2a8f4342552ffc5",
+    "semantic_hash": "00f83d226d3a97a7b2a8f4342552ffc5"
+  },
+  "kalm/bin/plotly_get_chrome": {
+    "mtime": 1787799020.298295,
+    "seen": 1789464593.9213078,
+    "ast_hash": "7052b9e5f028c6d1fc7a9e500bd5661b",
+    "semantic_hash": "7052b9e5f028c6d1fc7a9e500bd5661b"
+  },
+  "kalm/bin/proton": {
+    "mtime": 1787799268.499062,
+    "seen": 1789464593.9213085,
+    "ast_hash": "7fde8cf521d71e7559d1c5f133898b38",
+    "semantic_hash": "7fde8cf521d71e7559d1c5f133898b38"
+  },
+  "kalm/bin/proton-viewer": {
+    "mtime": 1787799268.4991343,
+    "seen": 1789464593.9213095,
+    "ast_hash": "909f96a5c92f68cd237cc11628f9e6de",
+    "semantic_hash": "909f96a5c92f68cd237cc11628f9e6de"
+  },
+  "kalm/bin/pyftmerge": {
+    "mtime": 1787799015.4040601,
+    "seen": 1789464593.9213102,
+    "ast_hash": "478c07ea071bd1bf253988ee8d782ec0",
+    "semantic_hash": "478c07ea071bd1bf253988ee8d782ec0"
+  },
+  "kalm/bin/pyftsubset": {
+    "mtime": 1787799015.4041023,
+    "seen": 1789464593.921311,
+    "ast_hash": "90e3bf68d6c60f042bab0830d1338315",
+    "semantic_hash": "90e3bf68d6c60f042bab0830d1338315"
+  },
+  "kalm/bin/pygmentize": {
+    "mtime": 1787799008.9826193,
+    "seen": 1789464593.9213119,
+    "ast_hash": "42a96a64e181ed2adf20008a3b143707",
+    "semantic_hash": "42a96a64e181ed2adf20008a3b143707"
+  },
+  "kalm/bin/pygrun": {
+    "mtime": 1787804753.0833066,
+    "seen": 1789464593.9213126,
+    "ast_hash": "57cdad9ca7f0a7f5a8f6e1af27da9724",
+    "semantic_hash": "57cdad9ca7f0a7f5a8f6e1af27da9724"
+  },
+  "kalm/bin/renderer": {
+    "mtime": 1787799034.6355174,
+    "seen": 1789464593.9213133,
+    "ast_hash": "06b46ecd9a88b72d9888ab85fabb8f84",
+    "semantic_hash": "06b46ecd9a88b72d9888ab85fabb8f84"
+  },
+  "kalm/bin/tensorboard": {
+    "mtime": 1787799025.331833,
+    "seen": 1789464593.921314,
+    "ast_hash": "9248fac9806bfebe0de5c6883aeaa2bf",
+    "semantic_hash": "9248fac9806bfebe0de5c6883aeaa2bf"
+  },
+  "kalm/bin/tiny-agents": {
+    "mtime": 1787799034.3042355,
+    "seen": 1789464593.9213147,
+    "ast_hash": "f6956ed47b911b58d983dcfba3bc496f",
+    "semantic_hash": "f6956ed47b911b58d983dcfba3bc496f"
+  },
+  "kalm/bin/torchfrtrace": {
+    "mtime": 1787799301.7426968,
+    "seen": 1789464593.9213157,
+    "ast_hash": "c7f388648ff0c882e6aac3de90f73a08",
+    "semantic_hash": "c7f388648ff0c882e6aac3de90f73a08"
+  },
+  "kalm/bin/torchrun": {
+    "mtime": 1787799301.7427561,
+    "seen": 1789464593.9213164,
+    "ast_hash": "043fc50a149549ef4140607c71973800",
+    "semantic_hash": "043fc50a149549ef4140607c71973800"
+  },
+  "kalm/bin/tqdm": {
+    "mtime": 1787799004.1719491,
+    "seen": 1789464593.921317,
+    "ast_hash": "1d97841d7c37909e99ec1378244ccf92",
+    "semantic_hash": "1d97841d7c37909e99ec1378244ccf92"
+  },
+  "kalm/bin/trimesh": {
+    "mtime": 1787799016.069387,
+    "seen": 1789464593.9213178,
+    "ast_hash": "c12d850f81476474f36c0b89ea2f58e2",
+    "semantic_hash": "c12d850f81476474f36c0b89ea2f58e2"
+  },
+  "kalm/bin/ttx": {
+    "mtime": 1787799015.4041405,
+    "seen": 1789464593.9213188,
+    "ast_hash": "5989dbe32e2f1707c297d6769f4483b8",
+    "semantic_hash": "5989dbe32e2f1707c297d6769f4483b8"
+  },
+  "kalm/bin/ul": {
+    "mtime": 1789222048.1209686,
+    "seen": 1789464593.9213195,
+    "ast_hash": "37c20c0e73aaec0207170f02961180b4",
+    "semantic_hash": "37c20c0e73aaec0207170f02961180b4"
+  },
+  "kalm/bin/ultralytics": {
+    "mtime": 1789222048.5189998,
+    "seen": 1789464593.9213202,
+    "ast_hash": "d11655aeff5c027d0c2b593270461028",
+    "semantic_hash": "d11655aeff5c027d0c2b593270461028"
+  },
+  "kalm/bin/websockets": {
+    "mtime": 1787802809.883414,
+    "seen": 1789464593.9213212,
+    "ast_hash": "7e89ca75198b43f647eb46ce868f7218",
+    "semantic_hash": "7e89ca75198b43f647eb46ce868f7218"
+  },
+  "kalm/bin/yolo": {
+    "mtime": 1789222048.5190592,
+    "seen": 1789464593.9213216,
+    "ast_hash": "d11655aeff5c027d0c2b593270461028",
+    "semantic_hash": "d11655aeff5c027d0c2b593270461028"
+  },
+  "kalm/configs/__init__.py": {
+    "mtime": 1787797922.2950287,
+    "seen": 1789464593.9213228,
+    "ast_hash": "dbdd5957cf14da8bbaf593b555c6e979",
+    "semantic_hash": "dbdd5957cf14da8bbaf593b555c6e979"
+  },
+  "kalm/configs/local_config_template.py": {
+    "mtime": 1787797922.295044,
+    "seen": 1789464593.9213233,
+    "ast_hash": "d982edcf185fd8b87ca2d14574dd07be",
+    "semantic_hash": "d982edcf185fd8b87ca2d14574dd07be"
+  },
+  "kalm/configs/model_config.py": {
+    "mtime": 1787797922.295044,
+    "seen": 1789464593.921324,
+    "ast_hash": "71beaeb1de1c4edb446a3bf5fa46c038",
+    "semantic_hash": "71beaeb1de1c4edb446a3bf5fa46c038"
+  },
+  "kalm/configs/path_config.py": {
+    "mtime": 1787797922.295044,
+    "seen": 1789464593.9213247,
+    "ast_hash": "c59abba4ede03ee7bc4a228a12cb14d5",
+    "semantic_hash": "c59abba4ede03ee7bc4a228a12cb14d5"
+  },
+  "kalm/dataset.py": {
+    "mtime": 1787797922.295044,
+    "seen": 1789464593.9213257,
+    "ast_hash": "eb07aa9054682017ef52479f3f55ce81",
+    "semantic_hash": "eb07aa9054682017ef52479f3f55ce81"
+  },
+  "kalm/etc/jupyter/nbconfig/notebook.d/dash.json": {
+    "mtime": 1787799034.4449825,
+    "seen": 1789464593.9213264,
+    "ast_hash": "d9b922b2b3ea7bd570d878caa0586894",
+    "semantic_hash": "d9b922b2b3ea7bd570d878caa0586894"
+  },
+  "kalm/etc/jupyter/nbconfig/notebook.d/open3d.json": {
+    "mtime": 1787799052.300352,
+    "seen": 1789464593.921327,
+    "ast_hash": "21d85edb7820486d5c1733886c5b503a",
+    "semantic_hash": "21d85edb7820486d5c1733886c5b503a"
+  },
+  "kalm/etc/jupyter/nbconfig/notebook.d/widgetsnbextension.json": {
+    "mtime": 1787799001.5622869,
+    "seen": 1789464593.9213278,
+    "ast_hash": "57434aea836bed25d14de869f0b1c514",
+    "semantic_hash": "57434aea836bed25d14de869f0b1c514"
+  },
+  "kalm/keypoint_predictor.py": {
+    "mtime": 1787797922.295044,
+    "seen": 1789464593.9213285,
+    "ast_hash": "dd409dc6215d5a0472842a77848ac30b",
+    "semantic_hash": "dd409dc6215d5a0472842a77848ac30b"
+  },
+  "kalm/mask_proposal.py": {
+    "mtime": 1789224497.975583,
+    "seen": 1789464593.9213297,
+    "ast_hash": "cc7c4f87930fcca5555f8c5266a6bb79",
+    "semantic_hash": "cc7c4f87930fcca5555f8c5266a6bb79"
+  },
+  "kalm/models.py": {
+    "mtime": 1787797922.295044,
+    "seen": 1789464593.9213305,
+    "ast_hash": "961669c05266496bc6d4f50534a92a72",
+    "semantic_hash": "961669c05266496bc6d4f50534a92a72"
+  },
+  "kalm/net_utils.py": {
+    "mtime": 1787797922.295044,
+    "seen": 1789464593.9213312,
+    "ast_hash": "8781faae0f0e008206af63528328af92",
+    "semantic_hash": "8781faae0f0e008206af63528328af92"
+  },
+  "kalm/pybullet_utils.py": {
+    "mtime": 1787797922.295044,
+    "seen": 1789464593.921332,
+    "ast_hash": "49fee781ba0e24397033e1edcae1d58e",
+    "semantic_hash": "49fee781ba0e24397033e1edcae1d58e"
+  },
+  "kalm/region_proposal.py": {
+    "mtime": 1789427320.2411878,
+    "seen": 1789464593.9213328,
+    "ast_hash": "0d479151665102be1d2369698c7baa3f",
+    "semantic_hash": "0d479151665102be1d2369698c7baa3f"
+  },
+  "kalm/robot_utils.py": {
+    "mtime": 1787797922.295473,
+    "seen": 1789464593.9213336,
+    "ast_hash": "d9bd82edc2cf8a4c3fdcf1001ab70e24",
+    "semantic_hash": "d9bd82edc2cf8a4c3fdcf1001ab70e24"
+  },
+  "kalm/rotation_utils.py": {
+    "mtime": 1787797922.295473,
+    "seen": 1789464593.9213345,
+    "ast_hash": "a1a73d70e9e753a8ce7592b91c049d52",
+    "semantic_hash": "a1a73d70e9e753a8ce7592b91c049d52"
+  },
+  "kalm/share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/install.json": {
+    "mtime": 1787799014.4415123,
+    "seen": 1789464593.9213352,
+    "ast_hash": "a4f85f50195e52b9e773efc56a98db85",
+    "semantic_hash": "a4f85f50195e52b9e773efc56a98db85"
+  },
+  "kalm/share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/package.json": {
+    "mtime": 1787799014.4360526,
+    "seen": 1789464593.9213362,
+    "ast_hash": "559d8e90f8307a8016061ac5d68575c9",
+    "semantic_hash": "559d8e90f8307a8016061ac5d68575c9"
+  },
+  "kalm/share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/schemas/@jupyter-widgets/jupyterlab-manager/plugin.json": {
+    "mtime": 1787799014.436339,
+    "seen": 1789464593.921337,
+    "ast_hash": "44cab5bfae17c7f362673e087c209681",
+    "semantic_hash": "44cab5bfae17c7f362673e087c209681"
+  },
+  "kalm/share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/121.5c5a442bc10a67ee.js": {
+    "mtime": 1787799014.43694,
+    "seen": 1789464593.9213374,
+    "ast_hash": "c8f4fe5b2310727b47b1a84551d583e5",
+    "semantic_hash": "c8f4fe5b2310727b47b1a84551d583e5"
+  },
+  "kalm/share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/160.235911d8e26dc735.js": {
+    "mtime": 1787799014.4374318,
+    "seen": 1789464593.921338,
+    "ast_hash": "52ea5828b8ebfc589896fcfa60b5fccb",
+    "semantic_hash": "52ea5828b8ebfc589896fcfa60b5fccb"
+  },
+  "kalm/share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/170.3ff9ceddc3770116.js": {
+    "mtime": 1787799014.4377391,
+    "seen": 1789464593.9213388,
+    "ast_hash": "96e38896c36ee8f3edcea1a2a0747ce6",
+    "semantic_hash": "96e38896c36ee8f3edcea1a2a0747ce6"
+  },
+  "kalm/share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/32.3281b05d23655ae8.js": {
+    "mtime": 1787799014.4379315,
+    "seen": 1789464593.9213398,
+    "ast_hash": "77b0bfc9c2959b8ae5a0db098d2c76c7",
+    "semantic_hash": "77b0bfc9c2959b8ae5a0db098d2c76c7"
+  },
+  "kalm/share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/452.1926530ab7f8e046.js": {
+    "mtime": 1787799014.4380286,
+    "seen": 1789464593.9213405,
+    "ast_hash": "b1b07a3a7be29b0df8ff4325c326a6b3",
+    "semantic_hash": "b1b07a3a7be29b0df8ff4325c326a6b3"
+  },
+  "kalm/share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/7.2a0ce575775f5aad.js": {
+    "mtime": 1787799014.4384673,
+    "seen": 1789464593.9213412,
+    "ast_hash": "28cbe4863ebdd759f6f41f22d9945732",
+    "semantic_hash": "28cbe4863ebdd759f6f41f22d9945732"
+  },
+  "kalm/share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/704.6a820cc839aca480.js": {
+    "mtime": 1787799014.4391274,
+    "seen": 1789464593.921342,
+    "ast_hash": "9ca2f2733d7dee63eacfaa55a510ecea",
+    "semantic_hash": "9ca2f2733d7dee63eacfaa55a510ecea"
+  },
+  "kalm/share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/71.bc79c9fe696e1422.js": {
+    "mtime": 1787799014.4392433,
+    "seen": 1789464593.9213426,
+    "ast_hash": "dbfcc4a592b2f9090c3d9c43e2d90ecb",
+    "semantic_hash": "dbfcc4a592b2f9090c3d9c43e2d90ecb"
+  },
+  "kalm/share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/718.a7a3f80ef4813fab.js": {
+    "mtime": 1787799014.4395568,
+    "seen": 1789464593.9213436,
+    "ast_hash": "f8e20f0f34c5d51e1703430759968dd5",
+    "semantic_hash": "f8e20f0f34c5d51e1703430759968dd5"
+  },
+  "kalm/share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/84.09c61a35dce1705f.js": {
+    "mtime": 1787799014.440023,
+    "seen": 1789464593.9213443,
+    "ast_hash": "6a047a92df823271ef57edd3683b588a",
+    "semantic_hash": "6a047a92df823271ef57edd3683b588a"
+  },
+  "kalm/share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/967.38afcd794ba10728.js": {
+    "mtime": 1787799014.4410071,
+    "seen": 1789464593.921345,
+    "ast_hash": "c729ff2534b400bffb4899196ee173a3",
+    "semantic_hash": "c729ff2534b400bffb4899196ee173a3"
+  },
+  "kalm/share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/remoteEntry.c8c9eed2cdefdeac.js": {
+    "mtime": 1787799014.441187,
+    "seen": 1789464593.921346,
+    "ast_hash": "d8077e4afb34c11734ea3076462ac79f",
+    "semantic_hash": "d8077e4afb34c11734ea3076462ac79f"
+  },
+  "kalm/share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/style.js": {
+    "mtime": 1787799014.4412832,
+    "seen": 1789464593.921347,
+    "ast_hash": "40660ee1958c12a2e1b5fa3a715053b5",
+    "semantic_hash": "40660ee1958c12a2e1b5fa3a715053b5"
+  },
+  "kalm/share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/third-party-licenses.json": {
+    "mtime": 1787799014.441423,
+    "seen": 1789464593.9213476,
+    "ast_hash": "7c32a0f66ac85eef91c33e2c3271565d",
+    "semantic_hash": "7c32a0f66ac85eef91c33e2c3271565d"
+  },
+  "kalm/share/jupyter/labextensions/jupyterlab-plotly/install.json": {
+    "mtime": 1787799019.3414776,
+    "seen": 1789464593.9213483,
+    "ast_hash": "07b12b034540dbfa808fa6cb3cd0a66a",
+    "semantic_hash": "07b12b034540dbfa808fa6cb3cd0a66a"
+  },
+  "kalm/share/jupyter/labextensions/jupyterlab-plotly/package.json": {
+    "mtime": 1787799019.3263314,
+    "seen": 1789464593.921349,
+    "ast_hash": "ca93bf7b5cc7b7f4dff4de08fc3ce789",
+    "semantic_hash": "ca93bf7b5cc7b7f4dff4de08fc3ce789"
+  },
+  "kalm/share/jupyter/labextensions/jupyterlab-plotly/static/0.e889754e73c03c32.js": {
+    "mtime": 1787799019.3397045,
+    "seen": 1789464593.9213495,
+    "ast_hash": "d2deef5dafcb0a76b7364300ffa3c87d",
+    "semantic_hash": "d2deef5dafcb0a76b7364300ffa3c87d"
+  },
+  "kalm/share/jupyter/labextensions/jupyterlab-plotly/static/remoteEntry.6f1030bf65ead662.js": {
+    "mtime": 1787799019.341297,
+    "seen": 1789464593.9213505,
+    "ast_hash": "6d4756f565005799daa2b621ee173fb9",
+    "semantic_hash": "6d4756f565005799daa2b621ee173fb9"
+  },
+  "kalm/share/jupyter/labextensions/jupyterlab-plotly/static/style.js": {
+    "mtime": 1787799019.3413677,
+    "seen": 1789464593.9213512,
+    "ast_hash": "40660ee1958c12a2e1b5fa3a715053b5",
+    "semantic_hash": "40660ee1958c12a2e1b5fa3a715053b5"
+  },
+  "kalm/share/jupyter/labextensions/jupyterlab-plotly/static/third-party-licenses.json": {
+    "mtime": 1787799019.3414283,
+    "seen": 1789464593.921352,
+    "ast_hash": "d81b2495a0a1ee1a6c87fd7de8a0f43c",
+    "semantic_hash": "d81b2495a0a1ee1a6c87fd7de8a0f43c"
+  },
+  "kalm/share/jupyter/labextensions/open3d/install.json": {
+    "mtime": 1787799052.300439,
+    "seen": 1789464593.9213526,
+    "ast_hash": "a3066182d2356eef828793c5f7b9e1f2",
+    "semantic_hash": "a3066182d2356eef828793c5f7b9e1f2"
+  },
+  "kalm/share/jupyter/labextensions/open3d/package.json": {
+    "mtime": 1787799052.3005102,
+    "seen": 1789464593.9213536,
+    "ast_hash": "585f366de55bad569738726e5942a64c",
+    "semantic_hash": "585f366de55bad569738726e5942a64c"
+  },
+  "kalm/share/jupyter/labextensions/open3d/static/493.f9f9e1870a89c440e367.js": {
+    "mtime": 1787799052.3006408,
+    "seen": 1789464593.9213543,
+    "ast_hash": "ffc8aae226749e3fc229ac4bec54b3a9",
+    "semantic_hash": "ffc8aae226749e3fc229ac4bec54b3a9"
+  },
+  "kalm/share/jupyter/labextensions/open3d/static/509.cd497512212c7d678181.js": {
+    "mtime": 1787799052.3007724,
+    "seen": 1789464593.9213552,
+    "ast_hash": "8892c5cf07ae6ca61d65c6c0d620e99e",
+    "semantic_hash": "8892c5cf07ae6ca61d65c6c0d620e99e"
+  },
+  "kalm/share/jupyter/labextensions/open3d/static/543.1c80835729e2b26eb76d.js": {
+    "mtime": 1787799052.3011653,
+    "seen": 1789464593.921356,
+    "ast_hash": "f0aeeaaba1822ea7269e3ddb97394ae7",
+    "semantic_hash": "f0aeeaaba1822ea7269e3ddb97394ae7"
+  },
+  "kalm/share/jupyter/labextensions/open3d/static/752.c371c3dc80b47b0e5256.js": {
+    "mtime": 1787799052.30153,
+    "seen": 1789464593.921357,
+    "ast_hash": "2be6c37017838d16c6940de5fca7c465",
+    "semantic_hash": "2be6c37017838d16c6940de5fca7c465"
+  },
+  "kalm/share/jupyter/labextensions/open3d/static/remoteEntry.978ca237b2e98d7edb06.js": {
+    "mtime": 1787799052.3016508,
+    "seen": 1789464593.9213576,
+    "ast_hash": "92beaaee52290c2cfda5d0f0e37ecc38",
+    "semantic_hash": "92beaaee52290c2cfda5d0f0e37ecc38"
+  },
+  "kalm/share/jupyter/labextensions/open3d/static/style.js": {
+    "mtime": 1787799052.3017144,
+    "seen": 1789464593.9213583,
+    "ast_hash": "8259c5c9dd06dde49a5e3abaad871e37",
+    "semantic_hash": "8259c5c9dd06dde49a5e3abaad871e37"
+  },
+  "kalm/share/jupyter/labextensions/open3d/static/third-party-licenses.json": {
+    "mtime": 1787799052.30179,
+    "seen": 1789464593.9213588,
+    "ast_hash": "e8df1bafb1c6ad1090b61db388364a63",
+    "semantic_hash": "e8df1bafb1c6ad1090b61db388364a63"
+  },
+  "kalm/share/jupyter/nbextensions/dash/main.js": {
+    "mtime": 1787799034.445144,
+    "seen": 1789464593.9213595,
+    "ast_hash": "3623e66ea0b5230a861d8306879125a8",
+    "semantic_hash": "3623e66ea0b5230a861d8306879125a8"
+  },
+  "kalm/share/jupyter/nbextensions/jupyter-js-widgets/extension.js": {
+    "mtime": 1787799001.5638542,
+    "seen": 1789464593.9213605,
+    "ast_hash": "925a874091e9f518825840c4346ec2a6",
+    "semantic_hash": "925a874091e9f518825840c4346ec2a6"
+  },
+  "kalm/share/jupyter/nbextensions/open3d/extension.js": {
+    "mtime": 1787799052.3018777,
+    "seen": 1789464593.9213612,
+    "ast_hash": "393867f26907c5e0a971c6de269a3861",
+    "semantic_hash": "393867f26907c5e0a971c6de269a3861"
+  },
+  "kalm/share/jupyter/nbextensions/open3d/index.js": {
+    "mtime": 1787799052.302539,
+    "seen": 1789464593.921362,
+    "ast_hash": "db153b81e4c1ab845749a89dd896c290",
+    "semantic_hash": "db153b81e4c1ab845749a89dd896c290"
+  },
+  "kalm/trainer.py": {
+    "mtime": 1787797922.295473,
+    "seen": 1789464593.9213626,
+    "ast_hash": "ed4b1d45c1f530c7a32d065f1beccc07",
+    "semantic_hash": "ed4b1d45c1f530c7a32d065f1beccc07"
+  },
+  "kalm/utils.py": {
+    "mtime": 1787797922.295473,
+    "seen": 1789464593.9213634,
+    "ast_hash": "68a66d0adc14c4819e044f3537fb0090",
+    "semantic_hash": "68a66d0adc14c4819e044f3537fb0090"
+  },
+  "kalm/vlm_client.py": {
+    "mtime": 1787797922.295473,
+    "seen": 1789464593.9213643,
+    "ast_hash": "245a8db38dc298fc7ff4b1f54b4e7bbc",
+    "semantic_hash": "245a8db38dc298fc7ff4b1f54b4e7bbc"
+  },
+  "output/test_masks/dino_masks.json": {
+    "mtime": 1789427767.533929,
+    "seen": 1789464593.921365,
+    "ast_hash": "d751713988987e9331980363e24189ce",
+    "semantic_hash": "d751713988987e9331980363e24189ce"
+  },
+  "output/test_masks/masks.json": {
+    "mtime": 1789427767.533877,
+    "seen": 1789464593.9213657,
+    "ast_hash": "be9477d3fcfbd94acaa25bb6592f9a13",
+    "semantic_hash": "be9477d3fcfbd94acaa25bb6592f9a13"
+  },
+  "output/test_masks/planning_masks.json": {
+    "mtime": 1789427767.5339544,
+    "seen": 1789464593.9213662,
+    "ast_hash": "d751713988987e9331980363e24189ce",
+    "semantic_hash": "d751713988987e9331980363e24189ce"
+  },
+  "output/test_regions.json": {
+    "mtime": 1789427730.4819083,
+    "seen": 1789464593.921367,
+    "ast_hash": "48ebf84c66945aeef378ed7007d439f2",
+    "semantic_hash": "48ebf84c66945aeef378ed7007d439f2"
+  },
+  "scripts/main_kalm_distill_keypoints.py": {
+    "mtime": 1787805937.3749568,
+    "seen": 1789464593.9213722,
+    "ast_hash": "02a45506462f825f2ae94efc2919ac87",
+    "semantic_hash": "02a45506462f825f2ae94efc2919ac87"
+  },
+  "scripts/main_kalm_eval_robot.py": {
+    "mtime": 1787797922.3633552,
+    "seen": 1789464593.921373,
+    "ast_hash": "9235c72f24f081b6be79c30617bc980d",
+    "semantic_hash": "9235c72f24f081b6be79c30617bc980d"
+  },
+  "scripts/main_kalm_mask_proposal.py": {
+    "mtime": 1789222011.4651911,
+    "seen": 1789464593.9213736,
+    "ast_hash": "40f97a2880e28ba3a09006be1283ecf7",
+    "semantic_hash": "40f97a2880e28ba3a09006be1283ecf7"
+  },
+  "scripts/main_kalm_region_proposal.py": {
+    "mtime": 1789224545.578889,
+    "seen": 1789464593.9213746,
+    "ast_hash": "8b809996af1037e22ffb95c85a7a8b52",
+    "semantic_hash": "8b809996af1037e22ffb95c85a7a8b52"
+  },
+  "scripts/main_train_kalmdiffuser.py": {
+    "mtime": 1789129206.6383896,
+    "seen": 1789464593.9213755,
+    "ast_hash": "957fec77b2c06ac2a3402a55a99152db",
+    "semantic_hash": "957fec77b2c06ac2a3402a55a99152db"
+  },
+  "scripts/train_kalmdiffuser.sh": {
+    "mtime": 1787797922.3633552,
+    "seen": 1789464593.9213762,
+    "ast_hash": "5b41276cf2c297309c8e7f53ef147860",
+    "semantic_hash": "5b41276cf2c297309c8e7f53ef147860"
+  }
+}

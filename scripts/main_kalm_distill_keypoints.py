@@ -254,7 +254,10 @@ def obtain_mask_from_gpt_and_sam(
 
 
 def main(args):
-    task_desc = TASKNAME2DESC[args.task_name]
+    TASKNAME2DESC = {
+    "my_custom_task": "Locate the keypoints on the target object.",
+    # ... other existing tasks ...
+}
 
     (
         reference_video_rgbs,

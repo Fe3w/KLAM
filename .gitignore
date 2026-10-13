@@ -28,3 +28,7 @@ RLBench/
 
 *.log-????????
 .vim*
+kalm/
+*.mp4
+*.pt
+output/
